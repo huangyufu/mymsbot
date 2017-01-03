@@ -1,0 +1,22 @@
+{
+  "name": "mymsbot",
+  "version": "1.0.0",
+  "description": "MyMSBot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test msbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mymsbot"
+  },
+  "keywords": [
+    "mymsbot"
+  ],
+  "author": "YH",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
